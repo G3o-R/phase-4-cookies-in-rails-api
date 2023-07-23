@@ -185,3 +185,5 @@ Before you move on, make sure you can answer the following questions:
 [middleware]: https://guides.rubyonrails.org/rails_on_rack.html#action-dispatcher-middleware-stack
 [same site cookies]: https://web.dev/samesite-cookies-explained/
 [ruby or equals]: http://www.rubyinside.com/what-rubys-double-pipe-or-equals-really-does-5488.html
+
+https://github.com/G3o-R/phase-4-cookies-in-rails-api
